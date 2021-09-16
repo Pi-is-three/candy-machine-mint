@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/candy-machine-mint/static/css/main.d66da8c0.chunk.css",
-    "main.js": "/candy-machine-mint/static/js/main.ad88945c.chunk.js",
-    "main.js.map": "/candy-machine-mint/static/js/main.ad88945c.chunk.js.map",
-    "runtime-main.js": "/candy-machine-mint/static/js/runtime-main.63636f38.js",
-    "runtime-main.js.map": "/candy-machine-mint/static/js/runtime-main.63636f38.js.map",
-    "static/js/2.218e0e7a.chunk.js": "/candy-machine-mint/static/js/2.218e0e7a.chunk.js",
-    "static/js/2.218e0e7a.chunk.js.map": "/candy-machine-mint/static/js/2.218e0e7a.chunk.js.map",
-    "static/js/3.69fb809a.chunk.js": "/candy-machine-mint/static/js/3.69fb809a.chunk.js",
-    "static/js/3.69fb809a.chunk.js.map": "/candy-machine-mint/static/js/3.69fb809a.chunk.js.map",
-    "index.html": "/candy-machine-mint/index.html",
-    "static/css/main.d66da8c0.chunk.css.map": "/candy-machine-mint/static/css/main.d66da8c0.chunk.css.map",
-    "static/js/2.218e0e7a.chunk.js.LICENSE.txt": "/candy-machine-mint/static/js/2.218e0e7a.chunk.js.LICENSE.txt"
+    "main.css": "/mint.shatteredmarble.com/static/css/main.d66da8c0.chunk.css",
+    "main.js": "/mint.shatteredmarble.com/static/js/main.928940df.chunk.js",
+    "main.js.map": "/mint.shatteredmarble.com/static/js/main.928940df.chunk.js.map",
+    "runtime-main.js": "/mint.shatteredmarble.com/static/js/runtime-main.2d1fd4ef.js",
+    "runtime-main.js.map": "/mint.shatteredmarble.com/static/js/runtime-main.2d1fd4ef.js.map",
+    "static/js/2.9c872c87.chunk.js": "/mint.shatteredmarble.com/static/js/2.9c872c87.chunk.js",
+    "static/js/2.9c872c87.chunk.js.map": "/mint.shatteredmarble.com/static/js/2.9c872c87.chunk.js.map",
+    "static/js/3.69fb809a.chunk.js": "/mint.shatteredmarble.com/static/js/3.69fb809a.chunk.js",
+    "static/js/3.69fb809a.chunk.js.map": "/mint.shatteredmarble.com/static/js/3.69fb809a.chunk.js.map",
+    "index.html": "/mint.shatteredmarble.com/index.html",
+    "static/css/main.d66da8c0.chunk.css.map": "/mint.shatteredmarble.com/static/css/main.d66da8c0.chunk.css.map",
+    "static/js/2.9c872c87.chunk.js.LICENSE.txt": "/mint.shatteredmarble.com/static/js/2.9c872c87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63636f38.js",
-    "static/js/2.218e0e7a.chunk.js",
+    "static/js/runtime-main.2d1fd4ef.js",
+    "static/js/2.9c872c87.chunk.js",
     "static/css/main.d66da8c0.chunk.css",
-    "static/js/main.ad88945c.chunk.js"
+    "static/js/main.928940df.chunk.js"
   ]
 }
